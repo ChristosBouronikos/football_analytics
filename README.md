@@ -2,7 +2,7 @@
 Collection of football analytics projects, data, and analysis by Edd Webster
 
 Within the notebooks repository, analysis is split in the following sections:
-- <b>data parsing / web scraping</b> - acquisition of data from various sources
+- <b>data parsing / web scraping</b> - acquisition of data from various sources including Wyscout, StatsBomb, FBref, TransferMarkt, and Understat
 - <b>data engineering</b> - cleaning of the data, fuzzy matching of distinct datasets
 - <b>data analysis</b> - analysis of the data in Python (TBA)
 
