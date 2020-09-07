@@ -8,5 +8,5 @@ Within the notebooks repository, analysis is split in the following sections:
 
 Scraped / cleaned data is made available where possible. All notebooks in this repository can help you acquire the data.
 
-Please see [https://public.tableau.com/profile/edd.webster/](https://public.tableau.com/profile/edd.webster/) for visualisations of the data in this repository in Tableau.
+Please see [public.tableau.com/profile/edd.webster/](https://public.tableau.com/profile/edd.webster/) for visualisations of the data in this repository in Tableau.
 
