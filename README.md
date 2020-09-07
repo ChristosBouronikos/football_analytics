@@ -1,4 +1,4 @@
-# Edd Webster Football Analytics Projects
+# Edd Webster's Football Analytics Projects
 Collection of football analytics projects, data, and analysis by Edd Webster
 
 Within the notebooks repository, analysis is split in the following sections:
