@@ -1,5 +1,5 @@
 # Edd Webster's Football Analytics Projects
-Collection of football analytics projects, data, and analysis by [Edd Webster](https://twitter.com/eddwebster)
+A collection of football analytics projects, data, and analysis by [Edd Webster](https://twitter.com/eddwebster)
 
 Within the notebooks repository, analysis is split in the following sections:
 - <b>A) Data Parsing / Web Scraping</b> - acquisition of data from various sources including Wyscout, StatsBomb, FBref, TransferMarkt, and Understat
